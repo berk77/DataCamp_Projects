@@ -20,4 +20,4 @@ In this project, the duration of the movies on Netflix is examined. The question
 
 As can be seen, non-typical genres such as children's films and documentaries are all clustered in the lower half of the plot. In other words, if the analysis is made without distinguishing these genres, it may be felt that the movie durations are getting shorter and shorter. Although the predictions are proven to be correct, the answer to the main question cannot be reached without additional analysis.
 
-![](Investigating%20Netflix%20Movies/images/scatter.png)
+![](images/scatter.png)
