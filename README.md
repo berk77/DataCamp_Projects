@@ -17,3 +17,7 @@ In this project, a comprehensive analysis of the Android application market is m
 * What is the relation between app category and app price ?
 * What is the popularity of paid apps vs free apps ?
 * What is the user review sentiment polarity for paid vs. free apps ?
+  
+## <a href="The%20GitHub%20History%20of%20the%20Scala%20Language">The GitHub History of the Scala Language</a>
+
+In this project, we'll be challenged to read in, clean up, and visualize the real-world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). With almost 30,000 commits and a history spanning over ten years, Scala is a mature language. We will find out who has had the most influence on its development and who are the experts.
