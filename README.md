@@ -28,3 +28,9 @@ In this project, we will use data manipulation and visualization to explore patt
 * What characteristics do the prize winners have? 
 * Which country gets it most often? 
 * Has anybody gotten it twice?
+  
+## <a href="Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing">Dr. Semmelweis and the Discovery of Handwashing</a>
+
+In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: he discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives. 
+
+In this project, we will reanalyze the medical data Semmelweis collected.
